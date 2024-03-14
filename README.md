@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Usage
 To start the application, run the following command in the terminal:
 ```
-streamlit run auth.py
+streamlit run app.py
 ```
 
 
